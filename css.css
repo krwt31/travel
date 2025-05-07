@@ -1,0 +1,58 @@
+.about{
+    height:500px;
+    margin-top:15px ;
+    font-size: 15px; 
+}
+
+.lotus-temple{
+    display: flex;
+    height: 500px;
+
+}
+
+.lotus-temple div{
+flex-grow: 1;
+}
+.img{
+
+    height: 70%;
+    width: 50%;
+}
+.imga{
+
+    height: 350px;
+    width: 100%;
+}
+.img2{
+    height: 600px;
+    width: 100%;
+}
+.b{
+    height: 250px;
+    width: 22%;
+    margin-left: 20px;
+    float: left;
+}
+.b1{
+    height: 250px;
+    width: 100%;
+}
+.a{
+    float: left;
+}
+
+.c{
+    color: red;
+}
+.m{
+    margin-top: 250px;
+}
+.m2{
+    margin-top: 50px;
+}
+.z{
+    padding: 30px;
+}
+.z2{
+    padding: 250px;
+}
